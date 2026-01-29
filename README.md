@@ -76,5 +76,5 @@ Let's connect! You can find me on:
 </p>
 
 <p align="center">
-  🎀 <i>Fun Fact: Just a girl who loves pink, good vibes, and writing high-performance code!</i> �💻✨
+  🎀 <i>Fun Fact: Just a girl who loves coffee, travel, and writing high-performance code!</i> ☕✈️💻✨
 </p>
