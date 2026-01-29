@@ -86,5 +86,5 @@ Let's connect! You can find me on:
 </p>
 
 <p align="center">
-  🎀 <i>Fun Fact: Just a girl who loves pink, clean data pipelines, and debugging with an iced matcha in hand!</i> �💻✨
+  🎀 <i>Fun Fact: Just a girl who loves pink, good vibes, and writing high-performance code!</i> �💻✨
 </p>
