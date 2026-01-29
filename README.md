@@ -1,11 +1,11 @@
 <div align="center">
   <h1>Hey there, I'm Shachi Mistry 👋</h1>
   <p>
-    <em>Data Engineering Graduate | ETL Specialist | RAG Systems Builder | Python & SQL Enthusiast</em>
+    <em>Software Engineering Graduate | Backend & Distributed Systems | RAG Systems Builder | Python & SQL Enthusiast</em>
   </p>
   <p>
-    🚀 I enjoy turning raw data into scalable, production-ready analytics solutions. <br>
-    💡 Constantly exploring new paradigms in Data Engineering and AI.
+    🚀 I enjoy designing scalable architectures and building production-ready systems. <br>
+    💡 Constantly exploring new paradigms in Software Engineering, AI, and Distributed Computing.
   </p>
 </div>
 
@@ -13,34 +13,34 @@
 
 ### About Me 👨‍💻
 
-I am a data-focused engineer with a strong foundation in building robust data architectures, complemented by deep expertise in **ETL pipelines**, **Data Warehousing**, and **RAG systems**.
+I am a **Software Engineer** with a strong foundation in building scalable backends, microservices, and high-performance data architectures. My expertise lies in **Distributed Systems**, **Cloud-Native Development**, and **AI-Driven Applications**.
 
-🔹 **Technical Expertise**: ✔ Programming: Python, SQL ✔ Data Modeling: Star Schema, OLAP/OLTP, SCDs
+🔹 **Core Engineering**: ✔ Backend: Python (FastAPI/Flask), SQL ✔ System Design: Microservices, Event-Driven Architecture, REST/gRPC APIs
 
-🔹 **Big Data & Cloud**: Apache Spark, Snowflake, Google BigQuery, AWS, MongoDB
+🔹 **Cloud & Infrastructure**: AWS, Kubernetes, Docker, Serverless, CI/CD Pipelines
 
-🔹 **Data Engineering & Pipelines**: Apache Airflow, Kafka, Docker, ETL/ELT optimization
+🔹 **Data & Distributed Systems**: Apache Spark, Kafka, Snowflake, MongoDB, PostgreSQL
 
-🔹 **AI/ML**: Retrieval-Augmented Generation (RAG), Vector Search, Embeddings, LLM Integration
+🔹 **AI & Search**: Retrieval-Augmented Generation (RAG), Vector Databases, LLM Integration
 
 ---
 
 ### Projects & Experience 🛠️
 
-✅ **LayoverOS** – *Autonomous Recovery Agent*  
-Built a state-persistent recovery agent for stranded travelers using **MongoDB Atlas Vector Search**, **LangGraph**, and **Python**.
+✅ **LayoverOS** – *Autonomous AI Agent*  
+Built a state-persistent recovery agent for stranded travelers using **MongoDB Atlas Vector Search**, **LangGraph**, and **Python**. Implemented complex state management and autonomous decision-making logic.
 
-✅ **Distributed Data Platform** – *High-Scale Processing*  
-Engineered a platform processing **5TB+ daily** with 100+ concurrent jobs using **Airflow**, **PySpark**, and **FastAPI** on Kubernetes. Achieved 99.9% uptime.
+✅ **Distributed Data Platform** – *High-Scale Distributed System*  
+Engineered a fault-tolerant platform processing **5TB+ daily** with 100+ concurrent jobs using **Airflow**, **PySpark**, and **FastAPI** on **Kubernetes**. Designed for high availability (99.9% uptime) and horizontal scalability.
 
-✅ **Triton Inference Monitor** – *GPU Performance Benchmarking*  
-Developed a high-performance benchmarking tool for **NVIDIA Triton Server** with automated latency profiling and hardware telemetry.
+✅ **Triton Inference Monitor** – *System Performance & Observability*  
+Developed a high-performance observability tool for **NVIDIA Triton Server** with automated latency profiling and hardware telemetry to optimize inference workloads.
 
-✅ **Scalable Order Processing System** – *Cloud-Native Architecture*  
-Designed an event-driven system handling distributed idempotency and optimistic locking using **FastAPI**, **AWS SQS**, and **DynamoDB**.
+✅ **Scalable Order Processing System** – *Event-Driven Microservices*  
+Designed a cloud-native, event-driven system handling distributed idempotency and optimistic locking using **FastAPI**, **AWS SQS**, and **DynamoDB**. Focus on consistency and high throughput.
 
-✅ **Netflix Popularity Prediction** – *Predictive Analytics*  
-Created a machine learning model to decode the "next big hit" using **predictive analytics** and comprehensive data exploration.
+✅ **Netflix Popularity Prediction** – *Machine Learning Engineering*  
+Created a predictive model and pipeline to analyze content trends using **Machine Learning** algorithms, focusing on feature engineering and model serving.
 
 ---
 
@@ -76,5 +76,5 @@ Let's connect! You can find me on:
 </p>
 
 <p align="center">
-  🎀 <i>Fun Fact: Just a girl who loves coffee, travel, and writing high-performance code!</i> ☕✈️💻✨
+  🎀 <i>Fun Fact: I paint, drink a lot of coffee, and write high-performance code—sometimes all in one evening!</i> �💻✨
 </p>
