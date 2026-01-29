@@ -59,16 +59,6 @@ Created a machine learning model to decode the "next big hit" using **predictive
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
 </p>
 
----
-
-### My GitHub Stats & Activity 📊📈
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShachiMistry&show_icons=true&theme=omni&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Shachi's Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShachiMistry&theme=omni&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Streak Stats" />
-</p>
 
 ---
 
@@ -77,10 +67,10 @@ Created a machine learning model to decode the "next big hit" using **predictive
 Let's connect! You can find me on:
 
 <p align="left">
-  <a href="https://linkedin.com/in/shachimistry">
+  <a href="https://www.linkedin.com/in/shachi-mistry-605810285/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:shachi.mistry2009@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
