@@ -86,5 +86,5 @@ Let's connect! You can find me on:
 </p>
 
 <p align="center">
-  🧸 <i>Fun Fact: Some of my best pipelines get built after sunset... I engineer till night!</i> 🌙
+  🎀 <i>Fun Fact: Just a girl who loves pink, clean data pipelines, and debugging with an iced matcha in hand!</i> �💻✨
 </p>
