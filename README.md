@@ -100,14 +100,7 @@ I sit at the intersection of **System Engineering** and **Applied Machine Learni
 
 ---
 
-### ⚙️ Telemetry & System Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShachiMistry&show_icons=true&theme=synthwave&bg_color=06060c&title_color=00f0ff&text_color=94a3b8&icon_color=a855f7&border_color=1e1e30" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShachiMistry&layout=compact&theme=synthwave&bg_color=06060c&title_color=00f0ff&text_color=94a3b8&icon_color=a855f7&border_color=1e1e30" height="150" />
-</p>
-
----
 
 ### 🔧 Core Engine Stacks
 
@@ -133,5 +126,5 @@ I sit at the intersection of **System Engineering** and **Applied Machine Learni
 ---
 
 <p align="center">
-  🎀 <i>Fun Fact: I paint, drink a lot of coffee, and write high-performance code—sometimes all in one evening!</i> 💻✨
+  🎀 <i>Fun Fact: I paint, drink a lot of coffee, and write high-performance code—sometimes all in one night!</i> 💻✨
 </p>
