@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=05050a&height=180&section=header&text=Shachi%20Mistry&fontSize=48&fontColor=967bb3&fontAlignY=45" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Shachi%20Mistry&fontSize=48&fontColor=967bb3&fontAlignY=45" width="100%" />
 
   <h3>🎓 MS Software Engineering Student @ San Jose State University</h3>
   <p>
